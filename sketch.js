@@ -1,4 +1,4 @@
-var word, wordimag;
+var word, wordimage;
 var bg, bgimg;
 var iss, issimg;
 var spaceCraft, spaceCraftimg;
