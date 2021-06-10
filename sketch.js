@@ -6,13 +6,13 @@ var spaceLeft, spaceRight, spaceDown;
 var hasDocked;
 
 function preload() {
-  wordimage = loadImage("images/word.png");
-  bgimg = loadImage("images/spacebg.jpg");
-  issimg = loadImage("images/iss.png");
-  spaceCraftimg = loadImage("images/spacecraft1.png");
-  spaceLeft = loadImage("images/spacecraft3.png");
-  spaceRight = loadImage("images/spacecraft4.png");
-  spaceDown = loadImage("images/spacecraft2.png");
+  wordimage = loadImage("word.png");
+  bgimg = loadImage("spacebg.jpg");
+  issimg = loadImage("iss.png");
+  spaceCraftimg = loadImage("spacecraft1.png");
+  spaceLeft = loadImage("spacecraft3.png");
+  spaceRight = loadImage("spacecraft4.png");
+  spaceDown = loadImage("spacecraft2.png");
 }
 
 function setup() {
